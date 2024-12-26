@@ -75,6 +75,11 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
+import logoJanjiSehat from "./logo-janji-sehat.svg";
+import logoKitchef from "./logo-kitchef.svg";
+import logoMakans from "./logo-makans.svg";
+import logoIceCubes from "./logo-ice-cubes.svg";
+
 export {
   brainwave,
   check,
@@ -144,4 +149,8 @@ export {
   instagram,
   telegram,
   twitter,
+  logoJanjiSehat,
+  logoKitchef,
+  logoIceCubes,
+  logoMakans,
 };
